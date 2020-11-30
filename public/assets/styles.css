@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.full-width{
+    width: 98%;
+    margin: auto;
+}
+.center{
+    text-align: center;
+    margin: auto;
+}
+
+.paddinged{
+    padding: 20px;
+}
+
+.shortener{
+    width: 50%;
+    margin: auto;
+}.shortener input{
+    width: 100%;
+}
+.title{
+    font-size: 1.5rem;
+}
+
+.margined-top{
+    margin-top: 20px;
+}
